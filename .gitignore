@@ -1,0 +1,10 @@
+**/__pycache__
+**/temp
+**/getMatsForTests
+.env
+.env.example
+*.log
+.venv
+temp.*
+.idea
+rabbitmq_data
